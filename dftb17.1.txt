@@ -1,0 +1,11 @@
+/home/staff/1.3.1OnlyIfort_withNewArpack/dftbplus-1.3.1/_obj_x86_64-linux-intel/_dir_extlib_fsockets/fsockets.f90
+
+sockets.c
+fsockets.f90
+
+current look: 
+D:\cygwin\home\staff\dftbplus-17.1\dftbplus-17.1\_build\prog\dftb+
+
+Win Socket reference/Cygwin make:
+D:\cygwin\home\staff\1.3.1OnlyIfort_withNewArpack\dftbplus-1.3.1\_obj_x86_64-linux-intel\_dir_extlib_fsockets
+
